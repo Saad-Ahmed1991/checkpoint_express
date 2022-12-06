@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(78, 77, 77);
+    font-size: 30px;
+    color: white;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    list-style: none;
+    gap: 2rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
